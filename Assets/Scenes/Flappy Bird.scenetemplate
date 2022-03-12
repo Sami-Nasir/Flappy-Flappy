@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: Flappy Bird
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 45d5bf8b134f5804583ff840e915d126, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 2800000, guid: 56c8231997065f94e97fc5dc4ec679eb, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: bf1c83c79497d05418052ea9e120e5bb, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: ef99951d41477f4428eaaf7975d25989, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 1329596098654649184, guid: 0dac08f38fbd1f54e91addea6a75ced8, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 6658920257651997873, guid: 871fb3ff0ea9c9441944d53c8ab9a5b9, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 5382737678833907208, guid: a84d7d25b8a07604ca724558565c0352, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 6409449013120251006, guid: a664566a3cc55a7438b0c726d5f1fa53, type: 3}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  addToDefaults: 0
